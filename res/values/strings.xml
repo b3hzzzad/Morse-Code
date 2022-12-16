@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MorseCode</string>
+    <string name="app_lan">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890.?!/();=+-_$@ </string>
+
 </resources>
